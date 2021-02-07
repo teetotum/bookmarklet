@@ -34,4 +34,6 @@
         panel.appendChild(createButton('close', remove));
         rootElement.appendChild(panel);
     };
+
+    openPopup();
 })();
